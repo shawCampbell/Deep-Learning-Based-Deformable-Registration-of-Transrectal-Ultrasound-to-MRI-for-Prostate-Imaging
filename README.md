@@ -22,7 +22,4 @@ analysis."*
 
 ## Description of Jupyter Notebooks:
 
-- blah
-- blah
-- blah
-- blah
+- will get to this
