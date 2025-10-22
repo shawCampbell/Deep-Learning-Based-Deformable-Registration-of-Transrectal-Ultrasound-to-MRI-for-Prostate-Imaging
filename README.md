@@ -3,7 +3,7 @@
 # Deep-Learning-Based-Deformable-Registration-of-Transrectal-Ultrasound-to-MRI-for-Prostate-Imaging
 This repository contains some of the main Jupyter Notebooks used to conduct research on deep-learning deformable registration of transrectal ultrasound to magnetic resonance imaging deformable registration.
 
-The thesis associated with this code is included in this repository, which has the following abstract:
+The thesis associated with this code is included in this repository (soon), which has the following abstract:
 
 *"This study investigates weakly supervised deformable registration of transrectal ultrasound
 (TRUS) and magnetic resonance imaging (MRI) for prostate imaging. The work focuses
