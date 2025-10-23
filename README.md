@@ -3,7 +3,7 @@
 # Deep-Learning-Based-Deformable-Registration-of-Transrectal-Ultrasound-to-MRI-for-Prostate-Imaging
 This repository contains some of the main Jupyter Notebooks used to conduct research on deep-learning deformable registration of transrectal ultrasound to magnetic resonance imaging deformable registration.
 
-The thesis associated with this code is included in this repository (soon), which has the following abstract:
+The thesis associated with this code is included in this repository , which has the following abstract:
 
 *"This study investigates weakly supervised deformable registration of transrectal ultrasound
 (TRUS) and magnetic resonance imaging (MRI) for prostate imaging. The work focuses
@@ -22,4 +22,6 @@ analysis."*
 
 ## Description of Jupyter Notebooks:
 
-- will get to this
+- 3D_WS_US-MRI_NCC.ipynb and 2D_WS_US-MRI_NCC.ipynb are weakly supervised models that were used in testing. They output sample validation images to view progress after each epoch, as well as samply output ddf fields for a validation pair. 3D_Evaluate.ipynb and 2D Evaluate.ipynb can be used to view the performance of a certain epoch from the models in accordance to the metrics outlined in the thesis.
+- Preprocess_Affine.ipynb is used to create another dataset from the non-affinely preprocessed nifti_data dataset that is affinely preprocessed using ANTs as described in the thesis.
+- 3D_WS_US-MRI_NCC.ipynb, MMDIR_H1_Part1_MSE.ipynb, MMDIR_H1_Part1_NCC.ipynb and MMDIR_H2.ipynb investigate the hypothesese mentioned in the thesis.
