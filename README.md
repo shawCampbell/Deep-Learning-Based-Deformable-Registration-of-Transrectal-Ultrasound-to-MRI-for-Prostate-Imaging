@@ -1,3 +1,5 @@
+I am currently making a more digestible repo for the code used in this thesis at https://github.com/shawCampbell/Multimodal-Deformable-Image-Registration.  
+
 ![image](https://github.com/shawCampbell/Deep-Learning-Based-Deformable-Registration-of-Transrectal-Ultrasound-to-MRI-for-Prostate-Imaging/blob/main/VECTOR_FIELDS.drawio.png)
 
 # Deep-Learning-Based-Deformable-Registration-of-Transrectal-Ultrasound-to-MRI-for-Prostate-Imaging
